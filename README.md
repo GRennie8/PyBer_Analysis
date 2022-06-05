@@ -36,4 +36,4 @@ Based on the evidence displayed I would make the following recommendations to ma
  - Due to there being a surplus of drivers in urban areas I would suggest implementing some incentives for drivers to relocate to            suburban areas. This will increase the number of drivers in suburban areas and could allow some drivers from suburban areas to move to    rural areas. This can lead to more drivers in the areas with low numbers without the need for extra recruitment.
  - Increase advertising/promotions in urban areas. For example, a loyalty scheme in which the customer can receive a discount after 5 rides.
  - Experiment with increasing pricing in urban areas. A small addition to the per-mile cost can yield high returns due to the high volume of rides in the area.
-![image](https://user-images.githubusercontent.com/104115586/172067586-4639b08a-dfaf-4e81-a13e-8e2956a42b45.png)
+
